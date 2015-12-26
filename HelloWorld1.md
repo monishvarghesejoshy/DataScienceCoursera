@@ -1,4 +1,4 @@
-##
+##Data Science
 Week 2 of the Data Scientist's Toolbox: Installing the Toolbox
 Welcome to Week 2 of the Data Scientist's toolbox! This will be the most lecture-intensive week of the course. The primary goal is to get you set up with R, Rstudio, Github, and the other tools we will use throughout the course track.
 
